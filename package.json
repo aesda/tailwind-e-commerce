@@ -1,0 +1,15 @@
+{
+  "name": "tailwind-e-commerce",
+  "version": "1.0.0",
+  "description": "E-commerce website using tailwind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.9"
+  }
+}
